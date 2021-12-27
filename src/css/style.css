@@ -1,0 +1,8 @@
+#login{
+    background: url('../img/exp.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+    overflow: hidden;
+}
+
